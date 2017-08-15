@@ -1,2 +1,2 @@
 # Social-Data-Science
-Repository for Group 11
+For Gruppe 11
